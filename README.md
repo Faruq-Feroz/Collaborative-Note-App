@@ -1,10 +1,10 @@
 # 🎉 **Collaborative Note App**
 
 ## 🚀 Live Demo
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https:)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://collaborative-note-app-xi.vercel.app/)
 
 ### 🏠 Home Screenshot  
-[![Home Screenshot](/frontend/src/assets/Home.png)](https:)
+[![Home Screenshot](/frontend/src/assets/Home.png)](https://collaborative-note-app-xi.vercel.app/)
 
 ---
 
